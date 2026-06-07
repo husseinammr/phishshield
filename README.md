@@ -9,7 +9,6 @@
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
 
-**مشروع تخرج | أمن المعلومات | جامعة ___________**
 
 [🚀 عرض مباشر](#) • [📖 التوثيق](#architecture) • [📊 المميزات](#features)
 
@@ -145,20 +144,7 @@ phishshield/
 
 ---
 
-## 👨‍💻 فريق التطوير
-
-| الاسم | الدور |
-|-------|-------|
-| ___________ | مطور Full-Stack |
-| ___________ | مصمم UI/UX |
-| ___________ | باحث أمن معلومات |
-
-**المشرف الأكاديمي:** د. ___________
-**الجامعة:** ___________
-**العام الدراسي:** 2024-2025
-
 ---
-
 ## 📄 الرخصة
 
 هذا المشروع مرخص تحت [MIT License](LICENSE) — للاستخدام التعليمي والأكاديمي فقط.
