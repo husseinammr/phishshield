@@ -10,8 +10,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
 
 
-[🚀 عرض مباشر](#) • [📖 التوثيق](#architecture) • [📊 المميزات](#features)
-
+https://import-react-app-pby2.bolt.host لتجربة
 </div>
 
 ---
